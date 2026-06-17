@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="page-hero">
+  <div class="container narrow">
+    <p class="kicker">Eclipse Hepheistos</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.tagline }}<p class="lead">{{ . }}</p>{{ end }}
+  </div>
+</section>
+<section class="content-section">
+  <div class="container narrow prose">
+    {{ .Content }}
+  </div>
+</section>
+{{ end }}
