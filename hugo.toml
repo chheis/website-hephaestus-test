@@ -15,7 +15,7 @@ relativeURLs = false
 [params]
   description = "Eclipse Hepheistos provides open SDV tooling for building, integrating, and validating software-defined vehicle development workflows."
   seo_title_suffix = " | Eclipse Hepheistos"
-  logo = "/eclipse-hepheistos-website/images/hepheistos/logo.svg"
+  logo = "/images/hepheistos/logo.svg"
   favicon = "/images/hepheistos/favicon.svg"
   share_img = "/images/hepheistos/social-card.svg"
   eclipse_projects_url = "https://projects.eclipse.org/"
